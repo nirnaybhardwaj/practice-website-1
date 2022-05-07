@@ -27,6 +27,11 @@ ul{
 li{
     list-style: none;
     font-size: 1.5rem;
+    
+}
+li a{
+    text-decoration: none;
+    color: black;
 }
 .showcase{
     width: 95vw;
